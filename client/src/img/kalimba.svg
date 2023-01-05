@@ -1,0 +1,73 @@
+<svg id="morph-color-animations"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+	<defs>
+		<radialGradient id="morph-color-animations-u-ellipse-fill" cx="0" cy="0" r="0.631699" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0.500094 0.514621)">
+			<stop id="morph-color-animations-u-ellipse-fill-0" offset="57%" stop-color="#bf805c"/>
+			<stop id="morph-color-animations-u-ellipse-fill-1" offset="100%" stop-color="#492e0d"/>
+		</radialGradient>
+		<radialGradient id="morph-color-animations-s-ellipse1-fill" cx="0" cy="0" r="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0.5 0.5)">
+			<stop id="morph-color-animations-s-ellipse1-fill-0" offset="73%" stop-color="#2d2412"/>
+			<stop id="morph-color-animations-s-ellipse1-fill-1" offset="100%" stop-color="#402406"/>
+		</radialGradient>
+		<linearGradient id="tine0" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine0-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine0-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine1" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine1-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine1-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine2" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine2-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine2-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine3" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine3-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine3-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine4" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine4-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine4-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine5" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine5-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine5-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine6" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine6-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine6-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine7" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine7-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine7-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine8" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine8-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine8-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+		<linearGradient id="tine9" x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+			<stop id="tine9-0" offset="81%" stop-color="#d6dae3"/>
+			<stop id="tine9-1" offset="100%" stop-color="#8c8c8c"/>
+		</linearGradient>
+	</defs>
+	<path id="morph-color-animations-u-ellipse" d="M-103.988209,-0.656077C-105.300364,-80.697475,-83.649821,-104.768424,0,-104.378317s104.644287,19.088303,104.378317,104.378317-16.792033,103.332132-104.378317,104.378317-102.676055-19.74438-103.988209-105.034394Z" transform="matrix(1.14964 0 0 1.43686 149.80405 149.975194)" fill="url(#morph-color-animations-u-ellipse-fill)" stroke-width="0"/>
+	<g id="morph-color-animations-s-g1" transform="matrix(.882075 0 0 0.882075 17.511251 52.570172)">
+		<ellipse id="morph-color-animations-u-copy-of-ellipse" rx="60.028699" ry="60" transform="matrix(.829583 0 0 0.829592 150.201229 174.048779)" fill="none" stroke="#673708" stroke-width="5"/>
+		<ellipse id="morph-color-animations-u-copy-of-ellipse-2" rx="55.995258" ry="55.995037" transform="matrix(.759232 0 0 0.759235 150.226628 174.052548)" fill="none" stroke="#673708" stroke-width="3"/>
+		<ellipse id="morph-color-animations-s-ellipse1" rx="60.028699" ry="60" transform="matrix(.599174 0 0 0.599187 150.201238 174.04878)" fill="url(#morph-color-animations-s-ellipse1-fill)" stroke-width="0"/>
+	</g>
+	<line id="morph-color-animations-s-line1" x1="-69.980841" y1="0" x2="69.980842" y2="0" transform="matrix(1.281763 0 0 1 147.466365 50)" fill="none" stroke="#bababa" stroke-width="10" stroke-linecap="round"/>
+	<g id="tines" transform="matrix(1.656853 0 0 1.628572-96.161743-89.564211)">
+		<rect id="morph-color-animations-u-copy-of-rectangle-2" width="6.919147" height="70" rx="4" ry="4" transform="matrix(1.03294 0 0 1 99.798616 72.188508)" fill="url(#tine0)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-3" width="6.919147" height="73.111127" rx="4" ry="4" transform="matrix(1.03294 0 0 1 109.873212 72.188508)" fill="url(#tine1)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-4" width="6.919147" height="76.222239" rx="4" ry="4" transform="matrix(1.03294 0 0 1 119.835914 72.188508)" fill="url(#tine2)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-5" width="6.919147" height="81.666685" rx="4" ry="4" transform="matrix(1.03294 0 0 1 129.798616 72.188508)" fill="url(#tine3)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-6" width="6.919147" height="89.444464" rx="4" ry="4" transform="matrix(1.03294 0 0 1 139.895617 72.188508)" fill="url(#tine4)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-7" width="6.919147" height="93.333354" rx="4" ry="4" transform="matrix(1.032939 0 0 1 149.858324 72.188508)" fill="url(#tine5)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-8" width="6.919147" height="85.555575" rx="4" ry="4" transform="matrix(1.03294 0 0 1 159.82102 72.188507)" fill="url(#tine6)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-9" width="6.919147" height="77.777795" rx="4" ry="4" transform="matrix(1.03294 0 0 1 169.783722 72.188507)" fill="url(#tine7)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-10" width="6.919147" height="74.666683" rx="4" ry="4" transform="matrix(1.03294 0 0 1 179.746424 72.188507)" fill="url(#tine8)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+		<rect id="morph-color-animations-u-copy-of-rectangle-11" width="6.919147" height="71.555571" rx="4" ry="4" transform="matrix(1.03294 0 0 1 189.709126 72.188507)" fill="url(#tine9)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+	</g>
+</svg>
